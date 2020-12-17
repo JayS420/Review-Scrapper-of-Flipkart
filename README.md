@@ -1,5 +1,5 @@
 # Review-scrapper of Flipkart
-## Link to the Web-Scrapper
+
 
 ## Demo
 ![Demo]![a](https://user-images.githubusercontent.com/55405381/102433994-d8d3ba00-4039-11eb-91a4-2d473d0f3c6c.PNG)
